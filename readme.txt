@@ -1,2 +1,1 @@
-
-hola como estas
+Informacion que quiero que todos reciban
